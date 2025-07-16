@@ -69,8 +69,3 @@ Feel free to contribute to this project by creating pull requests or reporting i
 ## License
 
 This project is open source and available under the MIT License.
-
-## Contact
-
-For any queries, please reach out to the project maintainer:
-- GitHub: [@Nachiketa-03](https://github.com/Nachiketa-03) 
