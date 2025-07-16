@@ -1,4 +1,4 @@
-# VITCoonect
+# VconnectIT
 
 VITCoonect is a comprehensive web application designed to enhance the campus experience for VIT students. It provides various services including hostel management, sports facility registration, and an AI-powered chat system.
 
